@@ -1,0 +1,20 @@
+{
+    "Author": "Robert Smit [MVP]",
+    "ContentSize": 693,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/add-bulk-vm-into-vmm-cloud/master/Add%20Bulk%20VM%20to%20Cloud.ps1",
+    "DownloadCount": 887,
+    "Id": "Add-Bulk-VM-into-VMM-Cloud-492ccf19",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 560,
+    "RaterCount": 0,
+    "Rating": 0.0,
+    "ReleaseDate": "2015-4-10T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "This Script Adds any vm that is not bind to a cloud in the selected cloud. You need to change the VM name that I used like \"WAPLoad*\" with your own VM name and also Change the VMM Cloud to the Cloud you are using.\u00a0 The script is based on VM names that are created with a basic sa",
+    "Title": "Add Bulk VM into VMM Cloud",
+    "UpdatedDate": "2015-4-10T00:00:00",
+    "Url": "https://github.com/azureautomation/add-bulk-vm-into-vmm-cloud",
+    "UserTags": "VMM, VMM Private Cloud, Windows Azure Virtual Machines"
+}
